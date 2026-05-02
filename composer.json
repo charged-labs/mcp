@@ -1,0 +1,7 @@
+{
+  "name": "charged/mcp",
+  "description": "Model Context Protocol server for CMS developers.",
+  "type": "library",
+  "license": "proprietary",
+  "version": "0.0.1"
+}
