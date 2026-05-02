@@ -1,2 +1,3 @@
-# mcp
-Model Context Protocol server for CMS developers.
+# Charged MCP
+
+MCP server for Drupal and WordPress. Coming soon. https://charged.dev
